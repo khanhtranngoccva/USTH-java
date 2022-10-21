@@ -1,0 +1,5 @@
+main // The program cannot find the main() method to execute
+String // Wrong parameter type.
+HelloWorld // Mismatching class name - will not compile because main class name is not found
+System.out // You access a non-existing class or a wrong class entirely.
+println // You access the wrong method.

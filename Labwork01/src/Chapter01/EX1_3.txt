@@ -1,0 +1,5 @@
+main // Missing method
+String // Missing parameter type, as Java is a statically typed language
+HelloWorld // Missing method name
+System.out // Missing class, as the println static method is a part of the System.out class.
+println // You only access the class, not its method.

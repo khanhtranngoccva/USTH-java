@@ -1,0 +1,4 @@
+; // -> Unterminated statement
+" // -> Unclosed string - causes some symbols to not be resolved.
+{ // -> Opens the class or method body. In both cases, without it, the compiler throws "{ expected".
+} // -> Closes the class or method body. In both cases, ithout it, the compiler throws "} expected".

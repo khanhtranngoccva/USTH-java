@@ -1,0 +1,1 @@
+Find the positive root of x^2 + 0x - c

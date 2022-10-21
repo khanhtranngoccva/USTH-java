@@ -1,0 +1,1 @@
+The main method will not work if the argument parameter is not passed in. String[] args is required.

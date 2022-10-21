@@ -1,0 +1,2 @@
+10 / 3; // -> integer division, take only the quotient
+10.0 / 3 or 10 / 3.0 or 10.0 / 3.0; // -> Java converts both numbers to double type and then divide
