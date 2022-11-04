@@ -22,7 +22,7 @@ public class EX3 {
         class LocalSolver {
             public int computeBestMove(int verticalPosition) {
                 int maxPossibleStep = highestVerticalPosition - verticalPosition;
-                int i = 1, j = 1;
+                int i = 1, j = 1;   
                 while (i <= maxPossibleStep) {
                     j = i;
                     i *= 3;
