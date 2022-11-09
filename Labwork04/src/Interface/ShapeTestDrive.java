@@ -1,15 +1,15 @@
 package Interface;
 
 interface Shape {
-    public double calArea();
+    double calArea();
 
-    public double calVolume();
+    double calVolume();
 
-    public String getName();
+    String getName();
 
-    public void display();
+    void display();
 
-    public void displayComputed();
+    void displayComputed();
 }
 
 class Point implements Shape {
